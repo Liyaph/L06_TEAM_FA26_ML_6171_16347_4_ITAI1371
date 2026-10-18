@@ -4,3 +4,5 @@ Group members who contributed:
 * Aaliyah Phillips
 * Diane Lenhoff
 * Elquin Ponce
+* Seth Alvarez
+* KeiChara Fleeks-Jones
